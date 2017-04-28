@@ -13,6 +13,9 @@ var Examples = (props) => {
         <li>
           <Link to='/?location=Puebla'>Puebla, Mexico</Link>
         </li>
+        <li>
+          <Link to='/?location=Hyderabad'>Hyderabad, India</Link>
+        </li>
       </ol>
     </div>
   )
